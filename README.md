@@ -1,1 +1,1 @@
-## App to showcase web application
+## App to showcase web applica
