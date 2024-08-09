@@ -1,1 +1,1 @@
-## App to showcase web applica
+## Repo to showcase web application
